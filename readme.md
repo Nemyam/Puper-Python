@@ -34,13 +34,13 @@ response = ChatCompletion.create(
 ```
 
 ## Features
-- 🚀 OpenAI-style interface
-- 🤖 Multiple models supported:
+- OpenAI-style interface
+- Multiple models supported:
 - GPT-4o-mini
 - GPT-4o
 - Claude 3.5 Sonnet
-- 📺 Streaming support
-- 🧹 Clean and simple API
+- Streaming support
+- Clean and simple API
 
 ## Models & Drivers
 | Model | Driver |
