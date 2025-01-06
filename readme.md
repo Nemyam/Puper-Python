@@ -50,6 +50,7 @@ response = ChatCompletion.create(
 | claude-3-5-sonnet-latest | claude |
 
 ## Version History
+- 0.0.13: Fixed README formatting
 - 0.0.12: Updated README
 - 0.0.11: Latest release with improved stability
 - 0.0.1: Initial release
