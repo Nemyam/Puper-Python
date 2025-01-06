@@ -1,4 +1,4 @@
-# puter-ai 🤖
+# puter-ai
 
 a simple python client for puter.ai api that lets u use gpt-4o-mini and claude models for free!
 
