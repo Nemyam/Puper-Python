@@ -1,6 +1,6 @@
 from puter import ChatCompletion
 
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0IjoicyIsInYiOiIwLjAuMCIsInUiOiJIOWVERWdpZVIyU251eFlJNkpLcVVBPT0iLCJ1dSI6IkgvSzNPMFN2UkxDNmJFZWs3dUkvQ3c9PSIsImlhdCI6MTczNjE0MzY5N30.D7Lkw1w9NQeUo2huKzn7GhTritpxoICY9V3ENUM8124"
+API_KEY = "your-api-key"
 
 try:
     # using gpt-4o-mini with streaming
